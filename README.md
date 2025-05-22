@@ -5,7 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-  <h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+  <h2 align="left">Hi, my name is Thomas and I'm a programming student 💻<br>
+      from Fatec</h2>
 
 ###
 
