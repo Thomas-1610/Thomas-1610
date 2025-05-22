@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thomas-1610&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=true&theme=dark&locale=en&hide_border=true" height="147" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Thomas-1610&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=true&theme=graywhite&locale=en&hide_border=true" height="146" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thomas-1610&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=blue-green&hide_border=true" height="" alt="languages graph"  />
 </div>
 
@@ -31,7 +31,7 @@
 
 ###
 
-<div align="right">
+<div align="left">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
